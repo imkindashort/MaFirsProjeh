@@ -3,5 +3,7 @@ public class asdf {
         System.out.println("Herro everybody!");
         System.out.println("HELP");
         System.out.println("AHH");
+        int x=1;
+        System.out.println(x);
     }
 }
